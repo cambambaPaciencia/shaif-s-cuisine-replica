@@ -7,9 +7,11 @@ Este projeto visa replicar exatamente o design e a funcionalidade do site origin
 ## Conhecimentos abordados
 
 - HTML, CSS
+- javaScript DOM
 - CSS Grid
 - Scroll Animation
 - Responsivity
+- Netfly Deployment
 - Outros ...
 
 ## Licença
