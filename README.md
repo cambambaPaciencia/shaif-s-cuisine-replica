@@ -1,4 +1,4 @@
-![](./assets/img/banner.png)
+![](./assets/img/banner-1.png)
 
 # Shaif's Cuisine
 
