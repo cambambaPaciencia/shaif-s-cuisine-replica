@@ -1,4 +1,4 @@
-![](./readmeImg/banner.png)
+![](./assets/img/banner.png)
 
 # Shaif's Cuisine 👨‍🍳
 

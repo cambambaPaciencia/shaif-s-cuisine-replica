@@ -17,7 +17,7 @@
 }
 .nav__list .nav__link {
 	font-size: 1.8rem;
-	font-family: Poppins;
+	font-family: 'Poppins';
 	color: var(--black-2);
 	padding: 0.5rem;
 }
